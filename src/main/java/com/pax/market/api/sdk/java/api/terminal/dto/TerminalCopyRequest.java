@@ -16,7 +16,7 @@ import com.pax.market.api.sdk.java.api.terminal.TerminalApi.TerminalStatus;
 import org.hibernate.validator.constraints.Length;
 import org.hibernate.validator.constraints.NotBlank;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 import java.io.Serializable;
 
 /**

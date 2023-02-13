@@ -14,7 +14,7 @@ package com.pax.market.api.sdk.java.api.terminalGroupApk.dto;
 import com.pax.market.api.sdk.java.api.terminalApk.dto.FileParameter;
 import org.hibernate.validator.constraints.NotBlank;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
